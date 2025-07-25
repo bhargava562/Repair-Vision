@@ -22,7 +22,7 @@
 - ☁️ All securely integrated via **Firebase** and served via **Spring Boot API**
 
 ---
-
+![Architecture Diagram](Repair_vision_Architecture.png)
 ## 🚀 Features
 
 | Feature | Description |
@@ -132,7 +132,7 @@ We welcome contributions! Please open issues or pull requests if you'd like to h
 ## 📬 Contact
 
 👨‍💻 **Developer:** Bhargava A.  
-✉️ **Email:** your-email@example.com  
+✉️ **Email:** bhargava.anandakumar@gmail.com
 🌐 **Portfolio:** [Coming Soon]
 
 ---
